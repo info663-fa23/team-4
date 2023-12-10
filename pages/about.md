@@ -12,22 +12,14 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Calabash: a Journal of Caribbean Arts and Letters
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This site collects works published by Calabash: a Journal of Caribbean Arts and Letters. Published by the New York University Graduate School of Portuguese and Spanish languages from 2000-2008, Calabash was dedicated to presenting the arts and letters of those communities long under-represented within the creative discourse of the Caribbean region, among them: Aruba and the Netherlands Antilles, Maroon societies, and the Asian and Amerindian societies of the region. In addition, Calabash had a strong visual arts component.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The works from Calabash that are indexed on this site are rich in detailed metadata. Visitors can the site can access articles by browsing or searching by traditional parameters like title of work and author name, and will find enhanced details when viewing any one item. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Calabash is available online in other forms. To view PDFs of the full collection, you can access the journal's [GitHub Repository](
+https://github.com/nyu-dss/calabash/tree/main/data). The now defunct Calabash site is available via the [Internet Archive](
+https://web.archive.org/web/20110701000000*/http://www.nyu.edu/calabash/).
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
