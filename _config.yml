@@ -19,14 +19,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 #
 # title of site appears in banner
 title: Calabash: a Journal of Caribbean Arts and Letters
-tagline: An international literary journal dedicated to artists of the Caribbean
+tagline: Celebrating creativity across the Caribbean diaspora.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Calabash: A Journal of Caribbean Arts and Letters was an international literary journal dedicated to publishing works encompassing, but not limited to, the Anglophone, Francophone, Hispanophone and Dutch-speaking Caribbean published by the New York University Graduate Program in Spanish and Portuguese Languages from 2000-2008"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Caribbean art;Caribbean diaspora;literature;poetry;literary journal
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Eleanor Morgan, Brina Diaz, Delali Ayivor
+author: Eleanor Morgan, Brina Diaz and Delali Ayivor
 
 ##########
 # COLLECTION SETTINGS
